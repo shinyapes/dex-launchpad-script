@@ -25,4 +25,4 @@ https://github.com/user-attachments/assets/11ac4c22-2db1-436e-a9cf-24d69cfd1b4b
 
 ### 👤 Author
 #### Twitter: [@shinytechapes](https://twitter.com/shinytechapes)   
-#### Telegram: [@novustechllc](https://t.me/novustechllc)   # dex-launchpad-script
+#### Telegram: [@novustechllc](https://t.me/novustechllc)  
